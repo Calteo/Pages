@@ -1,5 +1,5 @@
----
-layout: default
-title: Demo
----
 # Demo
+
+Some demo text.
+
+[GoBack](index-md)
