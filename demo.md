@@ -7,6 +7,6 @@ Some demo text.
 [GoBack](index.md)
 
 * Liste1
-* * Liste1
-* * Liste1
+* Liste1
+* Liste1
 * Liste1
