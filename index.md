@@ -3,6 +3,8 @@ Some text
 
 See [Demo](demo.md) or launch a 🚀 to 🪐.
 
+Or [Test](test.md)
+
 фыва
 
 Some table?
