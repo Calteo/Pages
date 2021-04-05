@@ -17,6 +17,6 @@ Some demo text.
 
 Some logo
 
-![alt Spacex launce][launch]
+![alt Spacex launch][launch]
 
-[launch]: https://www.spacex.com/static/images/infographics/F9_AUTONOMOUS_DRONESHIP_DESKTOP.jpg "Spacex launce"
+[launch]: https://www.spacex.com/static/images/infographics/F9_AUTONOMOUS_DRONESHIP_DESKTOP.jpg "Spacex launch"
