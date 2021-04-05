@@ -5,6 +5,6 @@ description: Some description
 # Header1
 Some text
 
-See [Demo](demo.md)
+See [Demo](demo.md) or launch a :rocket: to 🪐.
 
 фыва
